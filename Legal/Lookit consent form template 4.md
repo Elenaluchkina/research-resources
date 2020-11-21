@@ -48,6 +48,13 @@ if `additional_segments` is provided, each element of that list will be included
 ## Rights of research subjects
 
 [`research_rights_statement`: Statement of rights of research subjects, e.g. including IRB contact info]
+This research has been reviewed and approved by an Institutional Review Board (“IRB”) at [`institution`]. You may talk to them at [`IRBphone`] or [`IRBemail`] if:
+1. Your questions, concerns, or complaints are not being answered by the research team.
+2. You cannot reach the research team.
+3. You want to talk to someone besides the research team.
+4. You have questions about your rights as a research participant.
+5. You want to get information or provide input about this research.
+
 
 ## General Data Protection Regulation (GDPR) information [optional section, included if `gdpr` is true]
 
